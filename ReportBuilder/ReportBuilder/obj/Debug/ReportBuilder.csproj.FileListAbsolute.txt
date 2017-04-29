@@ -1,0 +1,5 @@
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Debug\ReportBuilder.exe.config
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Debug\ReportBuilder.exe
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Debug\ReportBuilder.pdb
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\obj\Debug\ReportBuilder.exe
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\obj\Debug\ReportBuilder.pdb

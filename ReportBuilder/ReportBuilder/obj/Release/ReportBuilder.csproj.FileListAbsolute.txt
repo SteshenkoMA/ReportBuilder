@@ -1,0 +1,11 @@
+c:\users\sbt-steshenko-ma\documents\visual studio 2015\Projects\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.exe.config
+c:\users\sbt-steshenko-ma\documents\visual studio 2015\Projects\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.exe
+c:\users\sbt-steshenko-ma\documents\visual studio 2015\Projects\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.pdb
+c:\users\sbt-steshenko-ma\documents\visual studio 2015\Projects\ReportBuilder\ReportBuilder\obj\Release\ReportBuilder.exe
+c:\users\sbt-steshenko-ma\documents\visual studio 2015\Projects\ReportBuilder\ReportBuilder\obj\Release\ReportBuilder.pdb
+C:\Users\sbt-Steshenko-MA\Documents\Visual Studio 2015\Projects\ReportBuilder\ReportBuilder\obj\Release\ReportBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.exe
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.exe.config
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\obj\Release\ReportBuilder.exe
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\obj\Release\ReportBuilder.pdb
+C:\Users\Maxim\Downloads\ReportBuilder\ReportBuilder\bin\Release\ReportBuilder.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<Sourses>
+	<Images>
+	        <Image id="Picture">
+			<path>files\exampleFiles\picture.jpg</path>
+		</Image>
+        </Images>
+	<Tables>
+		<Table id="Table">
+			<path>files\exampleFiles\table.csv</path>
+		</Table>    
+        </Tables>
+        <Attaches>
+                <Attach id="Archive">
+                        <path>files\exampleFiles\archive.rar</path>
+                </Attach>  
+        </Attaches>
+        <Values>
+                <Value id="Information">
+                        <path>files\exampleFiles\information.txt</path>
+                </Value>
+        </Values>
+</Sourses>
